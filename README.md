@@ -19,13 +19,13 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 6. You can restart the game by refreshing the page or clicking the restart button after a win or draw.
 
 ## Technologies Used
-HTML: Structure of the game and layout of the grid.
-CSS: Styling the game board, buttons, and overall page appearance.
-JavaScript: Logic for handling player turns, win conditions, and game state.
+1. HTML: Structure of the game and layout of the grid.
+2. CSS: Styling the game board, buttons, and overall page appearance.
+3. JavaScript: Logic for handling player turns, win conditions, and game state.
 
 ## The game checks the following conditions for a win:
-Three symbols in a row horizontally.
-Three symbols in a row vertically.
-Three symbols diagonally.
+- Three symbols in a row horizontally.
+- Three symbols in a row vertically.
+- Three symbols diagonally.
 
 
